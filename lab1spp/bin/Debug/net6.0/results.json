@@ -1,0 +1,20 @@
+{
+  "Name": "Main",
+  "Class": "Program",
+  "Time": 8250,
+  "Methods": [
+    {
+      "Name": "MyMethod",
+      "Class": "Foo",
+      "Time": 8222,
+      "Methods": [
+        {
+          "Name": "InnerMethod",
+          "Class": "Bar",
+          "Time": 6891,
+          "Methods": []
+        }
+      ]
+    }
+  ]
+}

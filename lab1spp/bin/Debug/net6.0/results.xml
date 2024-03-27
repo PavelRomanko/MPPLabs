@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Main</Name>
+  <Class>Program</Class>
+  <Time>8250</Time>
+  <Methods>
+    <TraceResult>
+      <Name>MyMethod</Name>
+      <Class>Foo</Class>
+      <Time>8222</Time>
+      <Methods>
+        <TraceResult>
+          <Name>InnerMethod</Name>
+          <Class>Bar</Class>
+          <Time>6891</Time>
+          <Methods />
+        </TraceResult>
+      </Methods>
+    </TraceResult>
+  </Methods>
+</TraceResult>

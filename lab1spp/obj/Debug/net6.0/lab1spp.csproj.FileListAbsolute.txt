@@ -1,0 +1,15 @@
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\lab1spp.csproj.AssemblyReference.cache
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\lab1spp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\lab1spp.AssemblyInfoInputs.cache
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\lab1spp.AssemblyInfo.cs
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\lab1spp.csproj.CoreCompileInputs.cache
+C:\Projects\VisualStudioProjects\lab1spp\bin\Debug\net6.0\lab1spp.exe
+C:\Projects\VisualStudioProjects\lab1spp\bin\Debug\net6.0\lab1spp.deps.json
+C:\Projects\VisualStudioProjects\lab1spp\bin\Debug\net6.0\lab1spp.runtimeconfig.json
+C:\Projects\VisualStudioProjects\lab1spp\bin\Debug\net6.0\lab1spp.dll
+C:\Projects\VisualStudioProjects\lab1spp\bin\Debug\net6.0\lab1spp.pdb
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\lab1spp.dll
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\refint\lab1spp.dll
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\lab1spp.pdb
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\lab1spp.genruntimeconfig.cache
+C:\Projects\VisualStudioProjects\lab1spp\obj\Debug\net6.0\ref\lab1spp.dll
