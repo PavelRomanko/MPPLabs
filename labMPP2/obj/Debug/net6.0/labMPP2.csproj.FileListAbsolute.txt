@@ -1,0 +1,15 @@
+C:\Projects\VisualStudioProjects\labMPP2\bin\Debug\net6.0\labMPP2.exe
+C:\Projects\VisualStudioProjects\labMPP2\bin\Debug\net6.0\labMPP2.deps.json
+C:\Projects\VisualStudioProjects\labMPP2\bin\Debug\net6.0\labMPP2.runtimeconfig.json
+C:\Projects\VisualStudioProjects\labMPP2\bin\Debug\net6.0\labMPP2.dll
+C:\Projects\VisualStudioProjects\labMPP2\bin\Debug\net6.0\labMPP2.pdb
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\labMPP2.csproj.AssemblyReference.cache
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\labMPP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\labMPP2.AssemblyInfoInputs.cache
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\labMPP2.AssemblyInfo.cs
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\labMPP2.csproj.CoreCompileInputs.cache
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\labMPP2.dll
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\refint\labMPP2.dll
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\labMPP2.pdb
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\labMPP2.genruntimeconfig.cache
+C:\Projects\VisualStudioProjects\labMPP2\obj\Debug\net6.0\ref\labMPP2.dll
